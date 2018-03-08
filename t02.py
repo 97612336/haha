@@ -7,6 +7,13 @@ n2=(i for i in range(10))
 # print(n2)
 # print(type(n2))
 
+for i in n1:
+    print(i)
+
+for i in n2:
+    print(i)
+
+
 class Tu(object):
     name='哈哈怪'
     def go(self):
